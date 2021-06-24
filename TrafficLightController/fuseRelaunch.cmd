@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/VIVEK/TrafficLightController/Traffic_Light_Controller_TB_isim_beh.exe" -prj "C:/Users/VIVEK/TrafficLightController/Traffic_Light_Controller_TB_beh.prj" "work.Traffic_Light_Controller_TB" "work.glbl" 
